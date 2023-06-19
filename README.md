@@ -25,7 +25,8 @@ provide the your message in .txt file.
 
 Change the path of the message in huffman.m and run it  
 
-![image](https://github.com/ibrahimabdelaal/Huffman-Encoder-Decoder-with-Viterbi-Algorithm-for-Error-Correction/assets/49596777/0936ed8d-4304-4c34-aed4-461fe2dce714)
+![image]
+(https://github.com/ibrahimabdelaal/Huffman-Encoder-Decoder-with-Viterbi-Algorithm-for-Error-Correction/assets/49596777/0936ed8d-4304-4c34-aed4-461fe2dce714)
 
 
 
